@@ -1,16 +1,37 @@
-## Hi there 👋
+# Ryan Dorrill, PhD
 
-<!--
-**dorrill/dorrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physicist working on particle detectors, optical sensing systems, and the
+software that controls them. I write Python and C++ for instrument control,
+data acquisition, and image-processing pipelines.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Optical and camera systems:** sensor characterization, radiometric
+  calibration, SNR and noise modeling, optical navigation
+- **Detector physics:** wavelength-shifting materials, SiPM photodetectors,
+  cryogenic testing (MicroBooNE, NuLat, miniTimeCube)
+- **Instrument-control software:** PyQt GUIs and DAQ tooling for
+  physics experiments
+
+## Selected publications
+
+- *Mitigating the Risk of Solar Damage to Digital Cameras and Star-Trackers*
+  TBD
+- *SLAM-Based Terrain Mapping Enabling End-to-End Interplanetary Optical
+  Navigation*, AAS GN&C 2025 (AAS 25-183)
+- Measurement of ambient radon progeny decay rates and energy spectra in liquid argon using the MicroBooNE detector, PRD 2024 (Physical Review D 109 (5), 052007)
+- Full list: [Ryan Dorrill at Google Scholar](https://scholar.google.com/citations?hl=en&authuser=3&user=4xY0O9AAAAAJ)
+
+## Repositories worth a look
+
+- [`DataAnalysisScripts`](https://github.com/dorrill/DataAnalysisScripts):
+  Python tools for data analysis and visualization
+- [your PyQt demo, once it exists]
+
+## Tech
+
+Python · C++ · PyQt · OpenCV · Pandas · Git · Linux · SQL · LaTeX · Optical Hardware · Radiation Detectors
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/dorrill/) · Ryan.Dorrill.PhD@gmail.com
