@@ -15,7 +15,6 @@ data acquisition, and image-processing pipelines.
 
 ## Selected publications
 
-- *Mitigating the Risk of Solar Damage to Digital Cameras and Star-Trackers*, TBD
 - *SLAM-Based Terrain Mapping Enabling End-to-End Interplanetary Optical Navigation*, AAS GN&C 2025 (AAS 25-183)
 - Measurement of ambient radon progeny decay rates and energy spectra in liquid argon using the MicroBooNE detector, PRD 2024 (Physical Review D 109 (5), 052007)
 - Full list: [Ryan Dorrill at Google Scholar](https://scholar.google.com/citations?hl=en&authuser=3&user=4xY0O9AAAAAJ)
